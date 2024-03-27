@@ -3,8 +3,8 @@ CloverCONNECT is chat application build using MERN Stack.
 
 
 ![login page](./images/1.png)
-![registration page](./images/3)
-![home page](./images/2)
+![registration page](./images/3.png)
+![home page](./images/2.png)
 
 ## Installation Guide
 
