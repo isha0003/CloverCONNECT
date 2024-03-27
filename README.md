@@ -17,17 +17,8 @@ CloverCONNECT is chat application build using MERN Stack.
 - [Mongodb]
 
 ```shell
-git clone https://github.com/koolkishan/chat-app-react-nodejs
-cd chat-app-react-nodejs
-```
-Now rename env files from .env.example to .env
-```shell
-cd public
-mv .env.example .env
-cd ..
-cd server
-mv .env.example .env
-cd ..
+git clone https://github.com/isha0003/CloverCONNECT.git
+cd CloverCONNECT
 ```
 
 Now install the dependencies
